@@ -6,7 +6,7 @@
 ---
 
 ### 🎓 About Me
-<img align="right" width="320" src="https://github.com/AnuragHazra/github-readme-stats/raw/master/themes/tokyonight/gradient.png" style="border-radius: 10px;" />
+<img align="right" width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anunay-web&theme=tokyonight&layout=compact&hide_border=true&title_color=38B2AC" style="border-radius: 10px;" />
 
 I'm a **B.Tech CSE student** at Uttaranchal University (Class of 2027). I specialize in making the web feel alive through smooth animations and building solid backend architectures.
 
@@ -19,7 +19,7 @@ I'm a **B.Tech CSE student** at Uttaranchal University (Class of 2027). I specia
 
 ### 🐍 My Contribution Snake
 <div align="center">
-  <img src="https://github-readme-snake.herokuapp.com/github-contribution-grid-snake.svg?github_user=Anunay-web&screen_background=000000&color_snake=38B2AC&color_dots=161b22,21262d,30363d,38B2AC,4fd1c5" alt="snake" />
+  <img src="https://raw.githubusercontent.com/Anunay-web/Anunay-web/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
 </div>
 
 ---
@@ -35,11 +35,7 @@ I'm a **B.Tech CSE student** at Uttaranchal University (Class of 2027). I specia
 ### 📊 Performance Metrics
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Anunay-web&theme=tokyonight&show_icons=true&count_private=true&hide_border=true&title_color=38B2AC" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anunay-web&theme=tokyonight&layout=compact&hide_border=true&title_color=38B2AC" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anunay-web&theme=tokyonight&hide_border=true&stroke=38B2AC" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Anunay-web&theme=tokyonight&hide_border=true&stroke=38B2AC" />
 </p>
 
 ---
