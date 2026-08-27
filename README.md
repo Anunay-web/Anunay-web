@@ -1,225 +1,58 @@
-# ⚡ ANUNAY KUMAR
+# Hi there, I'm Anunay Kumar 👋 
 
-<p align="center">
-
-<img src="./assets/aura.png" width="100%" alt="Anunay Kumar - Aura"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=900&color=36BCF7&center=true&vCenter=true&width=700&lines=I+don't+just+write+code.;I+solve+problems.;I+build+systems.;I+keep+showing+up." />
-
-</p>
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Anunay-web&label=PROFILE+VIEWS&color=36BCF7&style=for-the-badge" />
-
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Anunay-web&label=Profile%20Views&color=36BCF7&style=flat-square" alt="Anunay-web" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=435&lines=B.Tech+CSE+Student;Full-Stack+Developer;Backend+Enthusiast;Problem+Solver" alt="Typing SVG" />
 </p>
 
 ---
 
+## 💫 About Me
+
+I am a **B.Tech CSE student at Uttaranchal University** (Class of 2027) with a deep passion for building high-performance web applications. My focus lies in creating **seamless user experiences** with smooth animations and building **robust backend systems**.
+
+- 🔭 **Currently working on:** Real-time applications and productivity tools using the MERN stack.
+- 🌱 **Learning:** Advanced Backend Architecture, Cloud Deployment, and WebSockets.
+- ⚡ **Fun Fact:** I love experimenting with GSAP and Framer Motion to make the web feel "alive."
+- 📫 **Reach me at:** anunay5832@gmail.com
+
+---
+
+## 💻 Tech Stack
+
+### 🎨 Frontend & Design
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![GSAP](https://img.shields.io/badge/GSAP-green?style=for-the-badge) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=white) ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
+
+### ⚙️ Backend & Database
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black)
+
+### 🛠 Languages & Tools
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+---
+
+## 📊 GitHub Stats & Streak
+
 <p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Anunay-web&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Anunay's Stats" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anunay-web&theme=dark&hide_border=false&layout=compact" alt="Top Languages" width="49%" />
+</p>
 
-## `THE CODE DOESN'T NEED TO KNOW WHO WROTE IT.`
-
-## `THE RESULT DOES.`
-
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anunay-web&theme=dark&hide_border=false" alt="GitHub Streak" width="100%" />
 </p>
 
 ---
 
-# `01 // WHO AM I`
+## 🌐 Connect with Me
+<p align="left">
+<a href="https://linkedin.com/in/anunaykumar-uu" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Anunay Kumar" /></a>
+<a href="https://x.com/anunay689" target="blank"><img align="center" src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" alt="anunay689" /></a>
+<a href="https://instagram.com/anu_nay5" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="anu_nay5" /></a>
+<a href="mailto:anunay5832@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="anunay5832@gmail.com" /></a>
+</p>
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│                      ANUNAY KUMAR                            │
-│                                                              │
-│        B.Tech CSE • Uttaranchal University • 2027            │
-│                                                              │
-│        FULL-STACK DEVELOPER                                  │
-│        BACKEND ENTHUSIAST                                    │
-│        DSA PROBLEM SOLVER                                    │
-│                                                              │
-│        I build.                                              │
-│        I break.                                              │
-│        I debug.                                              │
-│        I learn.                                              │
-│        I repeat.                                             │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
 <p align="center">
-I DON'T CHASE PERFECTION.
-I CHASE PROGRESS.
+  <img src="https://visitcount.itsvg.in/api?id=Anunay-web&icon=0&color=0" alt="Visitor Count" />
 </p>
-02 // THE MINDSET
-<p align="center">
-
-"Talent gets you noticed.
-Discipline makes you dangerous."
-
-</p>
-                         ┌───────────────┐
-                         │     THINK     │
-                         └───────┬───────┘
-                                 │
-                                 ▼
-                         ┌───────────────┐
-                         │     SOLVE     │
-                         └───────┬───────┘
-                                 │
-                                 ▼
-                         ┌───────────────┐
-                         │     FAIL      │
-                         └───────┬───────┘
-                                 │
-                                 ▼
-                         ┌───────────────┐
-                         │     LEARN     │
-                         └───────┬───────┘
-                                 │
-                                 ▼
-                         ┌───────────────┐
-                         │    REPEAT     │
-                         └───────┬───────┘
-                                 │
-                                 └──────────────┐
-                                                │
-                                                ▼
-                                           `LEVEL UP`
-<p align="center">
-FAILURE IS NOT THE OPPOSITE OF SUCCESS.
-IT'S PART OF THE PROCESS.
-</p>
-03 // LEETCODE
-<p align="center"> <img src="https://leetcard.jacoblin.cool/Anunay-web?theme=dark&font=JetBrains%20Mono&ext=heatmap" width="90%" alt="Anunay Kumar LeetCode"/> </p> <p align="center">
-ONE PROBLEM AT A TIME.
-ONE DAY AT A TIME.
-NO EXCUSES.
-</p>
-04 // THE GRIND
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║                         THE GRIND                            ║
-║                                                              ║
-║   ██████╗ ██████╗  █████╗ ██╗███╗   ██╗██████╗              ║
-║   ██╔══██╗██╔══██╗██╔══██╗██║████╗  ██║██╔══██╗             ║
-║   ██████╔╝██████╔╝███████║██║██╔██╗ ██║██║  ██║             ║
-║   ██╔═══╝ ██╔══██╗██╔══██║██║██║╚██╗██║██║  ██║             ║
-║   ██║     ██║  ██║██║  ██║██║██║ ╚████║██████╔╝             ║
-║   ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝╚═════╝              ║
-║                                                              ║
-║   [✓] DSA                                                    ║
-║   [✓] Problem Solving                                       ║
-║   [✓] Full-Stack Development                                ║
-║   [→] Advanced Backend Architecture                         ║
-║   [→] WebSockets                                             ║
-║   [→] Cloud Deployment                                       ║
-║   [→] System Design                                          ║
-║                                                              ║
-║                                                              ║
-║                  STATUS : STILL GRINDING                     ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-05 // TECH STACK
-FRONTEND
-<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,js,ts,gsap,threejs" /> </p>
-BACKEND
-<p align="center"> <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,ejs" /> </p>
-LANGUAGES
-<p align="center"> <img src="https://skillicons.dev/icons?i=java,python,cpp,js,ts" /> </p>
-TOOLS
-<p align="center"> <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,postman" /> </p>
-06 // CURRENTLY BUILDING
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│  REAL-TIME APPLICATIONS                                      │
-│                                                              │
-│  PRODUCTIVITY TOOLS                                          │
-│                                                              │
-│  FULL-STACK WEB APPLICATIONS                                 │
-│                                                              │
-│  ROBUST BACKEND SYSTEMS                                      │
-│                                                              │
-│  SCALABLE APIs                                               │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-<p align="center">
-BUILDING SOMETHING IS BETTER THAN JUST TALKING ABOUT IT.
-</p>
-07 // GITHUB
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Anunay-web&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&title_color=36BCF7&text_color=FFFFFF&icon_color=36BCF7" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anunay-web&layout=compact&theme=transparent&hide_border=true&title_color=36BCF7&text_color=FFFFFF" width="48%" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anunay-web&theme=dark&hide_border=true&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" width="80%" /> </p>
-08 // AURA
-<p align="center">
-                    NO SHORTCUTS.
-                         ↓
-                    NO EXCUSES.
-                         ↓
-                    NO COMPARISON.
-                         ↓
-                    NO STOPPING.
-</p> <br> <p align="center">
-WORK IN SILENCE.
-LET THE RESULTS MAKE THE NOISE.
-</p> <br> <p align="center">
-DISCIPLINE > MOTIVATION
-CONSISTENCY > TALENT
-EXECUTION > IDEAS
-PROGRESS > PERFECTION
-</p>
-09 // SYSTEM STATUS
-> initializing developer...
-
-[████████████████████████████████] 100%
-
-> loading discipline............. DONE
-> loading consistency............ DONE
-> loading patience................ DONE
-> loading ambition................ DONE
-> loading curiosity............... DONE
-
-> checking excuses............... NOT FOUND
-
-> checking shortcuts............. NOT FOUND
-
-> checking determination......... FOUND
-
-> system status:
-
-                    STILL GRINDING.
-10 // THE RULE
-<p align="center">
-IF IT'S HARD
-I LEARN.
-<br>
-IF I FAIL
-I TRY AGAIN.
-<br>
-IF I DON'T KNOW
-I BUILD UNTIL I DO.
-</p>
-11 // PHILOSOPHY
-<p align="center">
-"You don't become great by being motivated every day."
-"You become great by showing up even when you're not."
-</p> <br> <p align="center">
-THE GOAL IS NOT TO BE BETTER THAN EVERYONE.
-THE GOAL IS TO BE UNRECOGNIZABLE
-COMPARED TO WHO YOU WERE YESTERDAY.
-</p>
-12 // CONNECT
-<p align="center"> <a href="https://linkedin.com/in/anunaykumar-uu"> <img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=36BCF7" /> </a> <a href="https://x.com/anunay689"> <img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=FFFFFF" /> </a> <a href="https://instagram.com/anu_nay5"> <img src="https://img.shields.io/badge/INSTAGRAM-111111?style=for-the-badge&logo=instagram&logoColor=36BCF7" /> </a> <a href="mailto:anunay5832@gmail.com"> <img src="https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=36BCF7" /> </a> </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Anunay-web&label=VISITORS&color=36BCF7&style=flat-square" /> </p> <p align="center">
-ANUNAY KUMAR
-BUILDING IN SILENCE.
-SOLVING TODAY. BUILDING TOMORROW.
-</p>
-<p align="center">
-                         < / >
-
-                  KEEP SHOWING UP.
-
-                         < / >
-</p> ```
