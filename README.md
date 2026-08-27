@@ -2,8 +2,6 @@
 
 <img src="./assets/banner_photo.jpg" width="100%" alt="Anunay Kumar banner" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=7EE8FF&center=true&vCenter=true&width=650&lines=Building+seamless+UI%2C+one+animation+at+a+time;Engineering+robust+backends+that+don't+break;Turning+coffee+%E2%98%95+into+clean+code;B.Tech+CSE+%40+Uttaranchal+University" alt="Typing SVG" />
-
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=Anunay-web&label=PROFILE%20VIEWS&color=7f5cff&style=for-the-badge" alt="profile views"/>
@@ -89,9 +87,15 @@ reach_me: anunay5832@gmail.com
 
 ## 🐍 Contribution Snake
 
-Add this once to make your contribution graph turn into an animated snake that eats your own commits — pure aura.
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anunay-web/Anunay-web/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="snake" src="https://raw.githubusercontent.com/Anunay-web/Anunay-web/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
+</div>
 
-1. In this repo, create `.github/workflows/snake.yml` with:
+<details>
+<summary>⚙️ How this is generated (workflow: <code>.github/workflows/snake.yml</code>)</summary>
 
 ```yaml
 name: Generate Snake
@@ -117,17 +121,10 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ '{{' }} secrets.GITHUB_TOKEN {{ '}}' }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
-2. Then drop this into the README where you want the snake to appear:
-
-```md
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anunay-web/Anunay-web/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="snake" src="https://raw.githubusercontent.com/Anunay-web/Anunay-web/output/github-contribution-grid-snake.svg" />
-</picture>
-```
+</details>
 
 <br/>
 
