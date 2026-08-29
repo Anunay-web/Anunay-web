@@ -65,12 +65,12 @@ reach_me: anunay5832@gmail.com
 ## 📊 The Numbers
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Anunay-web&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=7ee8ff&icon_color=a78bff&text_color=c9d1ff" width="49%" alt="stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anunay-web&theme=tokyonight&hide_border=true&layout=compact&bg_color=0d1117&title_color=7ee8ff&text_color=c9d1ff" width="42%" alt="top langs"/>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=Anunay-web&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=7ee8ff&icon_color=a78bff&text_color=c9d1ff" width="49%" alt="stats"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Anunay-web&theme=tokyonight&hide_border=true&layout=compact&bg_color=0d1117&title_color=7ee8ff&text_color=c9d1ff" width="42%" alt="top langs"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anunay-web&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFF&fire=FF8BD6&currStreakLabel=7EE8FF" width="100%" alt="streak"/>
+<img src="https://streak-stats.demolab.com/?user=Anunay-web&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFF&fire=FF8BD6&currStreakLabel=7EE8FF" width="100%" alt="streak"/>
 </div>
 
 <div align="center">
